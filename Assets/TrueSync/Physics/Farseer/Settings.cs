@@ -104,7 +104,7 @@ namespace TrueSync.Physics2D
         /// <summary>
         /// Enable/Disable sleeping
         /// </summary>
-        public static bool AllowSleep = false;
+        public static bool AllowSleep = true;
 
         /// <summary>
         /// The maximum number of vertices on a convex polygon.
